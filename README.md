@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Visit my website at logankm.com</h4>
+<h4 align="center">Visit my website at [logankm.com](logankm.com)</h4>
 
 ###
 
