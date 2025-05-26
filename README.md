@@ -10,8 +10,6 @@
 
 ###
 
-<h2 align="center">Skills</h2>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=logankm02.logankm02&"  />
 </div>
