@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🎓 Senior computer science and economics major (Class of 2025)<br>🐝 University of Rochester<br>🏠 From Wellington, New Zealand 🇳🇿<br>⚽️ Student-Athlete on Men's Soccer<br>🔍 Looking for Software Engineering Internships</p>
+<p align="center">🎓 MEng EECS at UC Berkeley (Class of 2026)<br>BA, Computer science and economics at the University of Rochester (Class of 2025)<br>🏠 From Wellington, New Zealand 🇳🇿<br>
 
 ###
 
